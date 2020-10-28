@@ -1,1 +1,95 @@
-style.css
+
+
+h1{
+	font-weight: bold;
+	padding: 10px;
+	margin-bottom: 30px;
+	text-align: center;
+	position: center;
+
+}
+
+.c{
+	background-color: pink;
+}
+
+.p{background-color: red}
+
+.s{
+	background-color: yellow
+}
+
+
+element{
+	
+	font-weight: bold;
+	size: 1.5em;
+	padding:10px;
+	position:absolute;
+	box-sizing: border-box;
+	top:0px;
+	right:0px;
+	border:1px solid black;
+	margin-bottom: 15px
+}
+
+
+
+	
+
+
+p{
+	padding: 30px 10px 10px 10px;
+}
+
+
+section{
+	background-color: grey;
+	width:97%;
+	
+	margin: 10px;
+	position: relative;
+
+	box-sizing: border-box;
+	border:1px solid black;
+	
+}
+
+@media(min-width: 992px){
+	section{
+	background-color: grey;
+	
+	margin: 10px;
+	position: relative;
+	width: 31%;
+	float:left;
+	box-sizing: border-box;
+
+	
+	border:1px solid black;
+}
+	}
+
+@media (min-width: 668px) and (max-width: 991px) {
+
+	section{
+		background-color: grey;
+	
+	margin: 10px;
+	position: relative;
+	width: 46%;
+	float:left;
+	box-sizing: border-box;
+
+	
+	border:1px solid black;
+
+	}
+
+	#last{
+		width: 95%;
+	}
+}
+
+
+
