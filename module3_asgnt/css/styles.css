@@ -1,0 +1,77 @@
+body {    
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#header-nav{
+	
+	background-color: grey;
+	float: left;
+	width: 100%;
+	text-align: left
+	
+	
+}
+
+#nav-list {
+  margin-top: 0px;
+  background-color: white;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1em;
+}
+
+
+
+.head1{
+	text-align: center;
+
+}
+
+
+.navbar-brand h1{
+	text-shadow: 1px 1px 1px #222;
+	size: 1.5em;
+	font-weight: bold;
+	line-height: .75;
+	height: 150px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+}
+
+
+
+
+
+section{
+	background-color: grey;
+	border:1px solid black;
+	box-sizing: border-box;
+	position: relative;
+	padding: 3px;
+	margin-bottom: 20px;
+	height: 300px;
+	
+
+	
+}
+
+h3{
+	position: absolute;
+	width: 100%;
+	font-size: : 1.5em;
+	text-align: center;
+
+}
+
+p{
+	padding-top: 60px;
+}
