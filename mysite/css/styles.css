@@ -1,0 +1,39 @@
+body{
+	font-size: 16px;
+  	color: #fff;
+  	background-color: #61122f;
+
+}
+
+#header-nav{
+	background-color: #f6b319;
+  	border-radius: 0;
+  	border: 0;
+}
+
+#logo-img{
+	width: 150px;
+	height: 150px;
+	padding: 6px;
+
+}
+
+
+#comp-name{
+	font-size: 2em;
+	font-style: bold;
+	color:blue;
+	margin-top: 20px;
+	margin-left: 3px;
+	
+}
+
+#our-moto{
+	margin:3px;
+	color: blue;
+	
+}
+
+
+
+
